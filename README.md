@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development(frontend & backend), machine learning, data analysis and chess
 - 🌱 I’m currently learning Node Js, React and latest css libraries
 - 🤔🤔 I’m currently working on a fully responsive chess web app built in React JS which uses django restframework for it's backend
-- 😍😍 I aim to build a chess neural network system that will be able to learn chess by studying Stockfish 15 games😁😁
+- 😍😍 I aim to build a chess neural network system that will be able to learn chess by studying Stockfish 15 games and show reports of is kewarning in a interative visual manner in real time😁😁
 - 👌👌I love building a project to perfection no matter the cost.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 Reach me on 👇👇
