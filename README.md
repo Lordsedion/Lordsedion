@@ -1,4 +1,5 @@
 I’m Lordseidon
+
 I’m interested in web development(frontend & backend), machine learning, data analysis and chess.
 I love building a project to perfection at any cost.
 
